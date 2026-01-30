@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I'am Eemeli, i study software development.
+
+# My skill areas are:
+- HTML, CSS, Javascript
+- Python, Flask
+- SQL, PHP
+
+
+     
+
 <!--
 **epe129/epe129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
