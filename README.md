@@ -2,7 +2,7 @@
 
 I'am Eemeli, i study software development.
 
-# My skill areas are:
+## My skill areas are:
 - HTML, CSS, Javascript
 - Python, Flask
 - SQL, PHP
