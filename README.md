@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I'am Eemeli, i study software development and i like web dev.
+I'am nerd. 
 
 ## My skill areas are:
 - HTML, CSS, Javascript
