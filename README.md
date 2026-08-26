@@ -8,7 +8,7 @@ I'am nerd.
 - HTML, CSS, Javascript
 - Python, Flask
 - SQL, PHP
-
+- Kotlin basics
 
      
 
